@@ -17,10 +17,6 @@
 <input type="submit" width="80" value="Отправить"><p />
 <span id="sendJMS" style="color: #3f48cc;"> </span>
 
-<p>Получите сообщения из очереди JBoss</p>
-<input type="submit" width="80" value="Получить"
-       onClick="receiveMessages()"><p />
-<span id="receiveJMS" style="color: #7349a4;"> </span>
 </form>
 </body>
 </html>
